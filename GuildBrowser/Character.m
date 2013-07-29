@@ -41,7 +41,7 @@
         _shirtItem = [Item initWithData:data[@"items"][@"shirt"]];
         _tabardItem = [Item initWithData:data[@"items"][@"tabard"]];
         _headItem = [Item initWithData:data[@"items"][@"head"]];
-        _backItem = [Item initWithData:data[@"items"][@"head"]];
+        _backItem = [Item initWithData:data[@"items"][@"back"]];
         _legsItem = [Item initWithData:data[@"items"][@"legs"]];
         _feetItem = [Item initWithData:data[@"items"][@"feet"]];
         _mainHandItem = [Item initWithData:data[@"items"][@"mainHand"]];
